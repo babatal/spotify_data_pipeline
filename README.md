@@ -13,3 +13,8 @@ The data pipeline will be implemented in the following stages:
 5. Data Storage: Storing the transformed data files properly in an AWS S3 bucket.
 
 6. Building Analytics Tables: Using AWS Glue, analytics tables created on top of the data stored in S3, making it easy to query and analyze the data using AWS Athena.
+
+## Data Pipeline
+
+![image](https://github.com/babatal/spotify_data_pipeline/assets/94752515/6096157e-7c5f-4b65-9839-fdc547da91fd)
+
